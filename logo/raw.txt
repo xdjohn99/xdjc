@@ -1,0 +1,9 @@
+Chrome 
+
+打开 https://github.com/xxxxxxxxxxxxx.png 
+
+然后 F12
+
+source
+
+open image in new tab
